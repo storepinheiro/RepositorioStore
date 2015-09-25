@@ -1,7 +1,4 @@
-<%-- 
-    Document   : create
-    Created on : 25/09/2015, 15:57:57
-    Author     : andre.pinheiro
+'    Author     : andre.pinheiro
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +9,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Olá Mundo</h1>
+        Fazendo a primeira merda no git!
     </body>
 </html>
